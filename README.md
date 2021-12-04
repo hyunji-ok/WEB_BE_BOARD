@@ -17,7 +17,7 @@
 - 사용 IDE : STS 3.9.9
 - 빌드 도구 : maven
 - WAS : Tomcat 8.5
-- ORM : Mybatis
+- SQLMAPPER : Mybatis
 - 데이터베이스 : maria
 
 
